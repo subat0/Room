@@ -1,0 +1,28 @@
+.brands{
+    padding: 88px;
+    text-align: center;
+}
+.brands h2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 48px;    
+    color: #1A1A1A;
+}
+
+.brands p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: #4A4A4A;
+}
+.logos{
+    padding-top: 15vh;
+    display: grid;
+    grid-template-columns: repeat(6,16.6%);
+    width: auto;
+    margin: auto;
+}

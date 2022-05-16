@@ -1,0 +1,23 @@
+.rooms{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 99px;
+    width: 85%;
+    margin: 0 auto;
+}
+.rooms_div{
+    display:flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 49%;
+
+}
+.rooms_div h1 {
+font-family: Roboto, sans-serif ;
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+line-height: 28px;
+color: #1A1A1A;
+}

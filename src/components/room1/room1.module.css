@@ -1,0 +1,10 @@
+.bigimg img{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    margin: 0 auto;
+    padding-top: 35px;
+}
+.bigimg img{
+    width: 90%;
+}
